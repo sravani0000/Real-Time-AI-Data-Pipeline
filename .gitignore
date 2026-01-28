@@ -1,7 +1,1 @@
-NEWS_API_KEY = 'd5114334e66442afa93b656113002998'
-GEMINI_API_KEY = 'AIzaSyCJNAagf7Oqwlmnety8rRmACg9ecKaIT8U'
-PROJECT_ID = 'cellular-arbor-436405-c0'
-# Update this to your ACTUAL JSON file name
-KEY_PATH = r"C:\Users\madab\Downloads\cellular-arbor-436405-c0-f8c56f803c50.json"# Created by venv; see https://docs.python.org/3/library/venv.html
-*
 
